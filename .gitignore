@@ -1,0 +1,19 @@
+# .gitignore
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.env
+.vscode/
+.idea/
+.venv/
+*.pyc
+*.pyo
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
